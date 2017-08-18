@@ -17,7 +17,7 @@ btn-vid: Voir la video
 video-modal-title: INTERVENTION POUR LE MONDE SMART CITIES
 btn-cta: Lire l'article
 cta-link: https://medium.com/open-source-politics/la-d%C3%A9mocratie-continue-entre-les-%C3%A9lections-babf6fd18754
-trust-title: Plus d'une vingtaine d'organisations nous font confiance
+trust-title: Plus de vingt d'organisations nous font confiance
 service:
   title-1: Nos services
   feature-1: Choix de l'outil
@@ -41,12 +41,11 @@ service:
   feature-8: Cartographies collaboratives
 serviceV2:
   Main-title: " services"
-  title-1: 4 OFFRES
   bg-feature-1: OSP AGORA
   bg-feature-2: OSP BUDGET
   bg-feature-3: OSP CUSTOM
   bg-feature-4: OSP FORMATION
-  title2: Pour répondre au mieux à vos besoins
+  title2: Nos offres pour répondre au mieux à vos besoins
   sm-feature-1: VOTATION<br>EN LIGNE
   sm-feature-2: CONSULTATIONS<br>PUBLIQUES
   sm-feature-3: BUDGETS<br>PARTICIPATIFS
